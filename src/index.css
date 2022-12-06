@@ -7,6 +7,12 @@
   font-family: "EA Font v1.5 by Ghettoshark", sans-serif;
 }
 
+:root {
+  --primary-color: #6F0F2C;
+  --secondary-color: #e4e4e4;
+  --tertiary-color: #141414;
+}
+
 html,
 body,
 #root {
