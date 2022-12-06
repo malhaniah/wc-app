@@ -11,7 +11,6 @@ import {
   tableCellClasses
 } from "@mui/material";
 import { styled } from '@mui/material/styles';
-import { StandingsResponseTypes } from "../types";
 
 interface children {
   standing: any;
